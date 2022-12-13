@@ -1,5 +1,0 @@
-Model_Id,Date,RMSE,CRPS,opt_params,Model_type,random_state
-MGPB122819,2022_12_1,285502.30407897086,61662.97547824833,"{'best_params': {'learning_rate': 0.01, 'min_data_in_leaf': 1, 'max_depth': 10}, 'best_iter': 5, 'best_score': 41529536702.158}",Gaussian Process Boosting,266415
-MGPB94814,2022_12_2,190313.397817133,59847.47216112992,"{'best_params': {'learning_rate': 0.1, 'min_data_in_leaf': 10, 'max_depth': 5}, 'best_iter': 1, 'best_score': 82361507056.16077}",Gaussian Process Boosting,20427
-MGPB10759,2022_12_2,185717.5339340924,54058.95152426077,"{'best_params': {'learning_rate': 1.0, 'min_data_in_leaf': 1, 'max_depth': 5}, 'best_iter': 1, 'best_score': 46991096481.42403}",Gaussian Process Boosting,189529
-MGPB10952,2022_12_2,182462.55119798772,68937.51362636675,"{'best_params': {'learning_rate': 1.0, 'min_data_in_leaf': 1, 'max_depth': 10}, 'best_iter': 1, 'best_score': 28422970512.077152}",Gaussian Process Boosting,733429
