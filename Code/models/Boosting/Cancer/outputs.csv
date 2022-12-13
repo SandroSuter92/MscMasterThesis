@@ -1,0 +1,5 @@
+Model_Id,Date,ERR,Logloss,AUC,opt_params,Model_type,random_state
+MGPB173330,2022_11_28,0.0303030303030303,0.0866084908757968,0.9948324459755716,"{'best_params': {'learning_rate': 0.1, 'min_data_in_leaf': 10, 'max_depth': -1}, 'best_iter': 46, 'best_score': 0.10078963838915819}",Gaussian Process Boosting,671939
+MGPB173336,2022_11_28,0.0606060606060606,0.1373270792000293,0.988487368084426,"{'best_params': {'learning_rate': 0.1, 'min_data_in_leaf': 10, 'max_depth': 5}, 'best_iter': 36, 'best_score': 0.12087568379384966}",Gaussian Process Boosting,702931
+MGPB173340,2022_11_28,0.0666666666666666,0.3704072352244657,0.9755075733161456,"{'best_params': {'learning_rate': 0.1, 'min_data_in_leaf': 1, 'max_depth': 1}, 'best_iter': 66, 'best_score': 0.09185171993726048}",Gaussian Process Boosting,98660
+MGPB173345,2022_11_28,0.04242424242424243,0.15797366844187527,0.9819259259259259,"{'best_params': {'learning_rate': 0.01, 'min_data_in_leaf': 1, 'max_depth': 1}, 'best_iter': 638, 'best_score': 0.11672686588572959}",Gaussian Process Boosting,629508

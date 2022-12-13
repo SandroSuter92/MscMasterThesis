@@ -1,0 +1,5 @@
+Model_Id,Date,RMSE,CRPS,opt_params,Model_type,random_state
+MGPB115945,2022_12_1,2.208653794664341,0.5384844127096473,"{'best_params': {'learning_rate': 0.1, 'min_data_in_leaf': 10, 'max_depth': -1}, 'best_iter': 30, 'best_score': 7.077656511721566}",Boosting,490201
+MGPB115949,2022_12_1,2.327753988325236,0.4479335368569772,"{'best_params': {'learning_rate': 0.1, 'min_data_in_leaf': 10, 'max_depth': 5}, 'best_iter': 27, 'best_score': 5.703609717254515}",Boosting,590960
+MGPB115954,2022_12_1,2.1551792949837583,0.5858242591686795,"{'best_params': {'learning_rate': 0.1, 'min_data_in_leaf': 10, 'max_depth': 1}, 'best_iter': 309, 'best_score': 6.189413441191441}",Boosting,79449
+MGPB115958,2022_12_1,2.1791966401998453,0.4200069400501293,"{'best_params': {'learning_rate': 0.01, 'min_data_in_leaf': 1, 'max_depth': 5}, 'best_iter': 166, 'best_score': 5.833810522053641}",Boosting,385956
