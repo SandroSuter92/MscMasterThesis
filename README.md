@@ -4,7 +4,6 @@ This repository contains the underlying data for the master thesis of Sandro Sut
 
 It contains the
 
-* [Thesis](/Thesis.pdf)
 * [Codes](/Code/)
 * [Underlying data](/data/)
 * [Calculated Outputs](/Code/models/)
