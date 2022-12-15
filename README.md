@@ -21,7 +21,7 @@ Since the goal of the thesis is the modeling of different data sets in the area 
 * Insurance
 * Abalone
 * Wine White
-* bank8fm
+* diamonds
 * KCHouseData
 
 **Classifications**
