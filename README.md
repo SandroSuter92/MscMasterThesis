@@ -24,7 +24,7 @@ Since the goal of the thesis is the modeling of different data sets in the area 
 * bank8fm
 * KCHouseData
 
-**Classifications
+**Classifications**
 
 * Sonar
 * Cancer
